@@ -1,0 +1,3 @@
+[submodule "SeedFinding"]
+	path = SeedFinding
+	url = git@github.com:Underscore76/SeedFinding.git
